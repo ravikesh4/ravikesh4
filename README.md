@@ -1,11 +1,11 @@
 # 💫About Me :
-🔭 I’m currently working on Flutter.
-🌱 I’m currently learning more about flutter and dart.
-🤝 I have around 2.5 years of experience in flutter.
-🌱 I have developed multiple projects using flutter.
-💬 How to reach: LinkedIn - https://in.linkedin.com/in/ravikesh-yadav, Email: ravikeshyadav4@gmail.com
-⚡ I have knowledge of web technologies like HTML, CSS, JavaScript and React JS.
-🔭 Fun Fact: I spend 2-3 hours every day on learning.
+##### 🔭 I’m currently working on Flutter.
+##### 🌱 I’m currently learning more about flutter and dart.
+##### 🤝 I have around 2.5 years of experience in flutter.
+##### 🌱 I have developed multiple projects using flutter.
+##### 💬 How to reach: LinkedIn - https://in.linkedin.com/in/ravikesh-yadav, Email: ravikeshyadav4@gmail.com
+##### ⚡ I have knowledge of web technologies like HTML, CSS, JavaScript and React JS.
+##### 🔭 Fun Fact: I spend 2-3 listening songs, Instgram and in youtube.
 
 
 
